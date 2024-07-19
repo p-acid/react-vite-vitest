@@ -1,4 +1,6 @@
-# TDD Practice
+# Test with React + Vite + Vitest
+
+> References: [프론트엔드에서 TDD로 개발하기](https://gdsc-university-of-seoul.github.io/how-to-develop-frontend-using-TDD/)
 
 ## Getting Started
 
