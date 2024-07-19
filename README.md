@@ -3,13 +3,14 @@
 ## Getting Started
 
 ```sh
+# with React + TypeScript + SWC
 npm create vite@latest
 ```
 
 ## Dependencies
 
 ```sh
-npm install -D vitest jsdom
+npm install -D vitest jsdom @testing-library/jest-dom @testing-library/react @testing-library/user-event
 ```
 
 ## Config
